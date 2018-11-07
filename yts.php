@@ -1,6 +1,6 @@
 <?php
 
-class ytsApi{
+class YtsApi{
 
   const APIBASE = 'https://yts.am/api/v2/';
   const SEARCH_END_POINT = 'list_movies.json';
